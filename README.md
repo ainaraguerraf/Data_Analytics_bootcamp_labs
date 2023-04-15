@@ -1,4 +1,4 @@
-# Iron_labs
+# My IronHack Labs
 Labs that I made during my bootcamp in Data Analytics.
 
 ***
@@ -27,52 +27,51 @@ Labs that I made during my bootcamp in Data Analytics.
 ***
 **UNIT 2 – SQL**
 
-[Lab Intro SQL
+- [Lab Intro SQL](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-intro-sql)
 
-[Lab SQL 1 
+- [Lab SQL 2](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-2)
 
-[Lab SQL 2
+- [Lab SQL 3](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-3)
 
-[Lab SQL 3
+- [Lab SQL 4](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-4)
 
-[Lab SQL 4
+- [Lab SQL 5](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-5)
 
-[Lab SQL 5
+- [Lab SQL 6](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-6)
 
-[Lab SQL 6
+- [Lab SQL 7](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-7)
 
-[Lab SQL 7
+- [Lab SQL 8](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-8) 
 
-[Lab SQL 8 
+- [Lab SQL 9](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-9)
 
-[Lab SQL 9
+- [Lab SQL Basics](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%202%20-%20SQL/lab-sql-basics/files_for_lab)
 
-[Lab SQL Basics
 ***
 
 **UNIT 3 – More SQL and a little bit of Python and ML**
 
-Lab SQL Advanced Queries
+- [Lab SQL Advanced Queries](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-sql-advanced-queries)
 
-Lab SQL Join Multiple Tables
+- [Lab SQL Join Multiple Tables](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-sql-join-multiple-tables)
 
-Lab SQL Join
+- [Lab SQL Join](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-sql-join)
 
-Lab SQL Self Cross Join
+- [Lab SQL Self Cross Join](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-sql-self-cross-join)
 
-Lab SQL Subqueries
+- [Lab SQL Subqueries](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-sql-subqueries)
 
-Lab Imbalanced Data
+- [Lab Imbalanced Data](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-imbalanced-data)
 
-Lab Predictions Logistic Regression
+- [Lab Predictions Logistic Regression](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-predictions-logistic-regression)
 
 ***
 **UNIT 4 - Python and Maching Learning**
 
-Lab Cleaning Categorical Data
+- [Lab Cleaning Numerical Data](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-cleaning-numerical-data)
 
-Lab Cleaning Numerical Data
+- [Lab Cleaning Categorical Data](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-cleaning-categorical-data)
 
-Lab Data Cleaning and Wrangling
+- [Lab Data Cleaning and Wrangling](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-data-cleaning-and-wrangling)
 
-Lab Feature Extraction
+- [Lab Feature Extraction](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-feature-extraction)
