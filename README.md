@@ -6,48 +6,48 @@ Labs that I made during my bootcamp in Data Analytics.
 
 [IronAinara](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/IronAinara)
 
-IronMaria
+[IronMaria](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/IronMaria)
 
-Lab Customer Analysis round 1
+[Lab Customer Analysis round 1](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/Case_Study-/csv_files)
 
-Lab Customer Analysis round 2
+[Lab Customer Analysis round 2](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/case-study-round2)
 
-Lab Customer Analysis round 3
+[Lab Customer Analysis round 3](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/lab-customer-analysis-round-3)
 
-Lab Customer Analysis round 4
+[Lab Customer Analysis round 4](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/lab-customer-analysis-round-4)
 
-Lab Customer Analysis round 5
+[Lab Customer Analysis round 5](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/-lab-customer-analysis-round-5)
 
-Lab Customer Analysis round 6
+[Lab Customer Analysis round 6](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/lab-customer-analysis-round-6)
 
-Lab Customer Analysis round 7
+[Lab Customer Analysis round 7](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/lab-customer-analysis-round-7)
 
-Lab Customer Analysis round Final round
+[Lab Customer Analysis round Final round](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%201%20-%20PYTHON%20%26%20ML/lab-customer-analysis-final-round)
 
 ***
 **UNIT 2 – SQL**
 
-Lab Intro SQL
+[Lab Intro SQL
 
-Lab SQL 1 
+[Lab SQL 1 
 
-Lab SQL 2
+[Lab SQL 2
 
-Lab SQL 3
+[Lab SQL 3
 
-Lab SQL 4
+[Lab SQL 4
 
-Lab SQL 5
+[Lab SQL 5
 
-Lab SQL 6
+[Lab SQL 6
 
-Lab SQL 7
+[Lab SQL 7
 
-Lab SQL 8 
+[Lab SQL 8 
 
-Lab SQL 9
+[Lab SQL 9
 
-Lab SQL Basics
+[Lab SQL Basics
 ***
 
 **UNIT 3 – More SQL and a little bit of Python and ML**
