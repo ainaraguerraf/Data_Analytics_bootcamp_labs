@@ -15,4 +15,4 @@ For this lab, you will be using the output of the previous lab - the `unit-4-lab
 
 ### Results
 
-Please find my dashboard (here:)[https://public.tableau.com/app/profile/ainara.guerra/viz/starting-with-tableau-ainara-guerra/Dashboard5#1]
+Please find my dashboard [here](https://public.tableau.com/app/profile/ainara.guerra/viz/starting-with-tableau-ainara-guerra/Dashboard5#1).
