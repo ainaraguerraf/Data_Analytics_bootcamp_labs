@@ -1,5 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
-
+# RESULTS: 
+- They can be found as a Tableau file inside this folder or in the following [link](https://public.tableau.com/app/profile/ainara.guerra/viz/LabManipulatingdatafrommultiplesources/Dashboard1?publish=yes)
 # Lab | Tableau - Manipulating data from multiple sources
 
 For this lab, we will be using the dataset in the Customer Analysis Business Case. This dataset can be found in `files_for_lab` folder.
