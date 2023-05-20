@@ -2,6 +2,11 @@
 
 # Lab | LOD expressions and Dashboards
 
+# Results
+
+For the results of this lab you can review the Tableau File that you have in this folder or click [here](https://public.tableau.com/app/profile/ainara.guerra/viz/lablodexpressions_AinaraGuerra/Dashboard1?publish=yes).
+***
+
 In this lab you will continue working with the same Tableau workbook from the last lab (lab for 6.2). As a quick reminder, you were using `abTesting.csv` as well as `case_study_ab_test.md` files. If you need to give one more look to the case study file, you can find it in the `files_for_lab/case_study_ab_test.md`.
 
 ### Instructions
