@@ -2,6 +2,8 @@
 
 # Lab | Revisiting Machine Learning Case Study
 
+#  <span style="color:rgb(255, 0, 255)"> Results of the lab [here](https://github.com/ainaraguerraf/Ironhack_labs/blob/main/UNIT%207%20-%20ML/lab-revisiting-machine-learning/7.01%20-%20Ainara%20Guerra.ipynb).
+
 - In this lab, you will use `learningSet.csv` file which you already have cloned in today's activities. 
 
 ### Instructions
