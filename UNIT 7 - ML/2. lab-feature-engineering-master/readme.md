@@ -2,6 +2,7 @@
 
 # Lab | Feature engineering
 
+# Results of the lab can be found [here](https://github.com/ainaraguerraf/Ironhack_labs/blob/main/UNIT%207%20-%20ML/2.%20lab-feature-engineering-master/Lab%20Feature%20Engineering%20-%20Ainara.ipynb)
 - In this lab, you will use `learningSet.csv` file which you have already cloned in the previous activities. 
 
 ### Instructions
