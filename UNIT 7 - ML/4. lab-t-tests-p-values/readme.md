@@ -2,6 +2,8 @@
 
 # Lab | Inferential statistics - T-test & P-value
 
+# Results of this lab are shown [here](https://github.com/ainaraguerraf/Ironhack_labs/blob/main/UNIT%207%20-%20ML/4.%20lab-t-tests-p-values/Lab%20-%20T-test%20p-values%20-%20Ainara.ipynb)
+
 ### Instructions
 
 1. We will have another simple example on two sample t test (pooled- when the variances are equal). But this time this is a one sided t-test
