@@ -1,7 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Inferential statistics - ANOVA
-
+# Results of this lab can be found [here](https://github.com/ainaraguerraf/Ironhack_labs/blob/main/UNIT%207%20-%20ML/5.%20lab-inferential-statistics-anova/Lab%20-%20Inferential%20statistics%20-%20Anova%20-%20Ainara.ipynb).
 Note: The following lab is divided in 2 sections which represent activities 3 and 4.
 
 ## Part 1
