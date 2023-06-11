@@ -93,3 +93,12 @@ This unit was about a mid project in group where we need to develop a model to p
 - [Lab Lod Expressions Dashboards](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/3.%20Lab-lod-expressions-dashboards)
 - [Lab Aggregation Revisted Queries](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/4.%20Lab-aggregation-revisited-subqueries)
 - [Lab Stored Procedures](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/5.%20Lab-stored-procedures)
+
+***
+**UNIT 7 - Advanced Machine Learning and Statistics**
+- [Lab Revisiting Machine Learning](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/1.%20lab-revisiting-machine-learning)
+- [Lab Feature Engineering](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/2.%20lab-feature-engineering)
+- [Lab Inferential Statistics](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/3.%20lab-inferential-statistics-master)
+- [Lab T-Tests % P-Values](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/4.%20lab-t-tests-p-values)
+- [Lab Inferential Statistics ANOVA](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/5.%20lab-inferential-statistics-anova)
+- [Lab Handling Data Imbalance](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/6.%20lab-handling-data-imbalance-classification)
