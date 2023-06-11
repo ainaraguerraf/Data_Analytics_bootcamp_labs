@@ -1,6 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Handling Data Imbalance in Classification Models
+# Results of the lab can be found [here](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/blob/main/UNIT%207%20-%20ML/6.%20lab-handling-data-imbalance-classification/lab-handling-data-imbalance-classification%20-%20ainara%20guerra.ipynb).
 
 For this lab and in the next lessons we will build a model on customer churn binary classification problem. You will be using `files_for_lab/Customer-Churn.csv` file.
 
