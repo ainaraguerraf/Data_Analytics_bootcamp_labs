@@ -81,4 +81,6 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Random Variuables Distribution](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-random-variable-distributions-master)
 - [Lab getting started with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-getting-started-with-tableau-master)
 - [Lab Dashboards with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-dashboards-with-tableau-)
-
+***
+**UNIT 5 - Machine Learning Mid Project**
+This unit was about a mid project in group where we need to develop a model to predict house selling prices in Washington. Have a look at the results [here](https://github.com/ainaraguerraf/Mid-project-machine-learning).
