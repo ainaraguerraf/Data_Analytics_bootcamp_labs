@@ -66,7 +66,7 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Predictions Logistic Regression](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-predictions-logistic-regression)
 
 ***
-**UNIT 4 - Python and Maching Learning**
+**UNIT 4 - Python + Maching Learning and Tableau**
 
 - [Lab Cleaning Numerical Data](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-cleaning-numerical-data)
 
@@ -75,3 +75,10 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Data Cleaning and Wrangling](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-data-cleaning-and-wrangling)
 
 - [Lab Feature Extraction](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-feature-extraction)
+- [Lab Comparing Regression Models](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-comparing-regression-models-master)
+- [Lab Feature Extraction](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-feature-extraction)
+- [Lab comparing regression models](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-comparing-regression-models-master)
+- [Lab Random Variuables Distribution](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-random-variable-distributions-master)
+- [Lab getting started with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-getting-started-with-tableau-master)
+- [Lab Dashboards with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-dashboards-with-tableau-)
+
