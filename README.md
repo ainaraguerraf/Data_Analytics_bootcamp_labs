@@ -83,4 +83,13 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Dashboards with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-dashboards-with-tableau-)
 ***
 **UNIT 5 - Machine Learning Mid Project**
+
 This unit was about a mid project in group where we need to develop a model to predict house selling prices in Washington. Have a look at the results [here](https://github.com/ainaraguerraf/Mid-project-machine-learning).
+
+***
+**UNIT 6 - Advanced Tableau, SQL and Excel**
+- [Lab Tableau Manipulating Data From Multiple Sources](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/1.%20Lab-tableau-manipulating-data-from-multiple-sources)
+- [Lab Grouping Data](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/2.%20Lab-grouping-data)
+- [Lab Lod Expressions Dashboards](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/3.%20Lab-lod-expressions-dashboards)
+- [Lab Aggregation Revisted Queries](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/4.%20Lab-aggregation-revisited-subqueries)
+- [Lab Stored Procedures](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/5.%20Lab-stored-procedures)
