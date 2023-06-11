@@ -66,7 +66,7 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Predictions Logistic Regression](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%203%20-%20SQL%20%26%20ML/lab-predictions-logistic-regression)
 
 ***
-**UNIT 4 - Python and Maching Learning**
+**UNIT 4 - Python + Maching Learning and Tableau**
 
 - [Lab Cleaning Numerical Data](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-cleaning-numerical-data)
 
@@ -75,3 +75,30 @@ Labs that I made during my bootcamp in Data Analytics.
 - [Lab Data Cleaning and Wrangling](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-data-cleaning-and-wrangling)
 
 - [Lab Feature Extraction](https://github.com/ainaraguerraf/Ironhack_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-feature-extraction)
+- [Lab Comparing Regression Models](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-comparing-regression-models-master)
+- [Lab Feature Extraction](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-feature-extraction)
+- [Lab comparing regression models](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-comparing-regression-models-master)
+- [Lab Random Variuables Distribution](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-random-variable-distributions-master)
+- [Lab getting started with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-getting-started-with-tableau-master)
+- [Lab Dashboards with Tableau](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%204%20-%20PYTHON%20%26%20ML/lab-dashboards-with-tableau-)
+***
+**UNIT 5 - Machine Learning Mid Project**
+
+This unit was about a mid project in group where we need to develop a model to predict house selling prices in Washington. Have a look at the results [here](https://github.com/ainaraguerraf/Mid-project-machine-learning).
+
+***
+**UNIT 6 - Advanced Tableau, SQL and Excel**
+- [Lab Tableau Manipulating Data From Multiple Sources](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/1.%20Lab-tableau-manipulating-data-from-multiple-sources)
+- [Lab Grouping Data](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/2.%20Lab-grouping-data)
+- [Lab Lod Expressions Dashboards](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/3.%20Lab-lod-expressions-dashboards)
+- [Lab Aggregation Revisted Queries](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/4.%20Lab-aggregation-revisited-subqueries)
+- [Lab Stored Procedures](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%206%20-%20ADVANCED%20TABLEAU%2C%20SQL%2C%20EXCEL/5.%20Lab-stored-procedures)
+
+***
+**UNIT 7 - Advanced Machine Learning and Statistics**
+- [Lab Revisiting Machine Learning](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/1.%20lab-revisiting-machine-learning)
+- [Lab Feature Engineering](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/2.%20lab-feature-engineering)
+- [Lab Inferential Statistics](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/3.%20lab-inferential-statistics-master)
+- [Lab T-Tests % P-Values](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/4.%20lab-t-tests-p-values)
+- [Lab Inferential Statistics ANOVA](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/5.%20lab-inferential-statistics-anova)
+- [Lab Handling Data Imbalance](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%207%20-%20ML/6.%20lab-handling-data-imbalance-classification)
