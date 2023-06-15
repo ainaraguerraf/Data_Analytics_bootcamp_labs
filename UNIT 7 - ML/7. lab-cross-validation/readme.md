@@ -2,6 +2,8 @@
 
 # Lab | Cross Validation
 
+# Results of this lab can be found [here](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/blob/main/UNIT%207%20-%20ML/7.%20lab-cross-validation/lab-cross%20validation%20-%20ainara%20guerra.ipynb). 
+
 For this lab, we will build a model on customer churn binary classification problem. You will be using `files_for_lab/Customer-Churn.csv` file.
 
 
