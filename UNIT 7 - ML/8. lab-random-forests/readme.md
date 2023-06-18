@@ -2,6 +2,7 @@
 
 # Lab | Random Forests
 
+# Result of the lab can be found [here](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/blob/main/UNIT%207%20-%20ML/8.%20lab-random-forests/lab-random%20forests-%20ainara%20guerra.ipynb).
 For this lab, you will be using the CSV files provided in the `files_for_lab` folder.
 
 ### Instructions
