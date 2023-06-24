@@ -1,6 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Web Scraping Multiple Pages
+# Results of the lab can be found [here](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/blob/main/UNIT%208%20-%20HTML%2C%20WEBSCRAPPING%2C%20APIS%2C%20CLUSTERING/2.%20lab-web-scraping-multiple-pages/lab%20-%20ainara%20guerra%20-%20web%20scrapping%20multiple%20pages.ipynb).
 
 #### Business goal:
 
