@@ -3,7 +3,7 @@
 # Lab | Unsupervised learning intro
 
 #### Instructions 
-
+# Results of this lab can be found [here](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/blob/main/UNIT%208%20-%20HTML%2C%20WEBSCRAPPING%2C%20APIS%2C%20CLUSTERING/5.%20lab-unsupervised-learning-intro/lab-unsupervised-learning-intro%20-%20ainara%20guerra.ipynb).
 
 It's the moment to perform clustering on the songs you collected. Remember that the ultimate goal of this little project is to improve the recommendations of artists. Clustering the songs will allow the recommendation system to limit the scope of the recommendations to only songs that belong to the same cluster - songs with similar audio features.
 
